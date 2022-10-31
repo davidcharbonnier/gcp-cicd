@@ -1,5 +1,3 @@
-outputs_location = "~/Projets/Perso/gcp/fast-config"
-
 cicd_repositories = {
   bootstrap = {
     branch            = "master"
